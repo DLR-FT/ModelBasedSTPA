@@ -21,8 +21,6 @@ For the usage of the STPA profile, a tutorial video was created that explains:
  - What the limitations are
  - What future work will target
 
-It can be accessed in the Tutorial folder.
-
 --------------------------------------------------------------------------------------------------
 
 **Further Information**
@@ -60,11 +58,11 @@ The STPAStandaloneProfile.mdzip and STPAStandaloneProfileWithExample.mdzip are l
 
 The corresponding introductory resources are licensed under the [CC By-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license. 
 The introductory resources inlcude:
-- Introducation-Video:  IntroductionSTPA.mp4
+- Introduction-Video:   IntroductionSTPA.mp4
 - Tutorial-Video:       TutorialSTPA.mp4
 - Tutorial-Slides:      STPA_Tutorial_Slides.mp4
 
-For both, the profile and the introductory resources, the copyright belongs to the German Aerospace Center (DLR): 
+For both, the profile and the introductory resources, the copyright belongs to the German Aerospace Center (DLR) / Deutsches Zentrum für Luft- und Raumfahrt e.V (DLR): 
 
 Copyright (c) 2023 Deutsches Zentrum für Luft- und Raumfahrt e.V.
 
