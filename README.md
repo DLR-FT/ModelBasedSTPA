@@ -62,7 +62,7 @@ The corresponding introductory resources are licensed under the [CC By-NC-ND 4.0
 The introductory resources inlcude:
 - Introduction-Video:   [IntroductionSTPA.mp4](https://youtu.be/jCtOcbAkEVI)
 - Tutorial-Video:       [TutorialSTPA.mp4](https://youtu.be/hQOw4MYubq0)
-- Tutorial-Slides:      STPA_Tutorial_Slides.mp4
+- Tutorial-Slides:      Tutorial/STPA_Tutorial_Slides.pdf
 
 For both, the profile and the introductory resources, the copyright belongs to the German Aerospace Center (DLR) / Deutsches Zentrum für Luft- und Raumfahrt (DLR) e.V.: 
 
