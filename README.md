@@ -5,6 +5,8 @@ not only component failures but also issues related to inadequate specifications
 To be able to use the STPA in combination with SysML, a profile was created. 
 All important resources will be linked here.
 
+--------------------------------------------------------------------------------------------------
+
 **Intro:**
 
 The [intro video](https://youtu.be/jCtOcbAkEVI) serves as an initial statement of the idea of the profile and introduces the tutorial contents.
