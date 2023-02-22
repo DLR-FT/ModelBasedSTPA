@@ -73,10 +73,8 @@ Copyright (c) 2023 Deutsches Zentrum für Luft- und Raumfahrt (DLR) e.V.
 **Contact Information**
 
 The profile was created by Alexander Ahlbrecht.
-
-In case of questions, just write a mail to: alexander.ahlbrecht@dlr.de
-
-In addition, you can find links to the social network accounts below:
 - [LinkedIn](https://www.linkedin.com/in/alexander-ahlbrecht-411907225/)
 - [ResearchGate](https://www.researchgate.net/profile/Alexander-Ahlbrecht)
 - [GoogleScholar](https://scholar.google.com/citations?user=XildzN5o6jAC&hl=de&oi=ao)
+
+In case of questions, you can also write a mail to: alexander.ahlbrecht@dlr.de
