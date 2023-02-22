@@ -27,11 +27,11 @@ It can be accessed in the Tutorial folder.
 
 **Further Information**
 
-The profile was created with the Cameo Systems Modeler version 19.3
+The profile was created with the Cameo Systems Modeler version 19.3.
 
-This means that no guarantee is provided that the profile works with other versions
+This means that no guarantee is provided that the profile works with other versions.
 
-Moreover, the profile is a proof-of-concept implementation and not a certified product!
+Moreover, the profile is a proof-of-concept implementation and not a qualified product!
 
 Since automated functions are an important parts of the profile, a summary of the most important functions is provided in the Profile folder. (Important_Functions_STPA_Profile.png)
 
@@ -47,10 +47,10 @@ STPA Literature:
 
 Related References from Alexander Ahlbrecht:
 - [Master's Thesis - German](https://www.researchgate.net/publication/354599682_Erweiterung_von_MBSE_Prozessen_bei_der_Entwicklung_sicherheitskritischer_Systemarchitekturen_durch_die_Nutzung_Formaler_Methoden)
-- [Integrating Safety into Formal Methods](https://ieeexplore.ieee.org/document/9594315)
-- [Early System Architecture Safety Evaluation](https://ieeexplore.ieee.org/document/9582542)
-- [Safety Analysis Coverage](https://ieeexplore.ieee.org/document/9925883)
-- [Agile Safety Guided Design](https://ieeexplore.ieee.org/abstract/document/10005396)
+- [Integrating Safety into MBSE Processes with Formal Methods](https://ieeexplore.ieee.org/document/9594315)
+- [Evaluating System Architecture Safety in Early Phases of Development with MBSE and STPA](https://ieeexplore.ieee.org/document/9582542)
+- [Model-Based STPA: Enabling Safety Analysis Coverage Assessment with Formalization](https://ieeexplore.ieee.org/document/9925883)
+- [Model-Based STPA: Towards Agile Safety-Guided Design with Formalization](https://ieeexplore.ieee.org/abstract/document/10005396)
 
 --------------------------------------------------------------------------------------------------
 
@@ -72,5 +72,11 @@ Copyright (c) 2023 Deutsches Zentrum für Luft- und Raumfahrt e.V.
 
 **Contact Information**
 
-The profile was created by Alexander Ahlbrecht
+The profile was created by Alexander Ahlbrecht.
+
 In case of questions, just write a mail to: alexander.ahlbrecht@dlr.de
+
+In addition, you can find links to the social network accounts below:
+- [LinkedIn](https://www.linkedin.com/in/alexander-ahlbrecht-411907225/)
+- [ResearchGate](https://www.researchgate.net/profile/Alexander-Ahlbrecht)
+- [GoogleScholar](https://scholar.google.com/citations?user=XildzN5o6jAC&hl=de&oi=ao)
