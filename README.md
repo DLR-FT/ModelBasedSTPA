@@ -37,7 +37,7 @@ Since automated functions are an important parts of the profile, a summary of th
 
 --------------------------------------------------------------------------------------------------
 
-**Further Material**
+**Related Material**
 
 Recommended STPA Literature:
 - [MIT Partnership for Systems Approaches to Safety and Security (PSASS)](http://psas.scripts.mit.edu/home/materials/)
