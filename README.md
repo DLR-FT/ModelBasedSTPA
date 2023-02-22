@@ -9,6 +9,8 @@ All important resources will be linked here.
 
 The intro video serves as an initial statement of the idea of the profile and introduces the tutorial contents.
 
+[Link to Intro-Video](https://www.youtube.com/watch?v=jCtOcbAkEVI)
+
 --------------------------------------------------------------------------------------------------
 
 **Tutorial:**
@@ -20,6 +22,8 @@ For the usage of the STPA profile, a tutorial video was created that explains:
  - How advanced concepts can be used
  - What the limitations are
  - What future work will target
+ 
+ [Link to Tutorial-Video](https://youtu.be/hQOw4MYubq0)
 
 --------------------------------------------------------------------------------------------------
 
