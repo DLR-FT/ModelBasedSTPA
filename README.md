@@ -50,7 +50,7 @@ Related References from Alexander Ahlbrecht:
 - [Integrating Safety into Formal Methods](https://ieeexplore.ieee.org/document/9594315)
 - [Early System Architecture Safety Evaluation](https://ieeexplore.ieee.org/document/9582542)
 - [Safety Analysis Coverage](https://ieeexplore.ieee.org/document/9925883)
-- Agile Safety Guided Design
+- [Agile Safety Guided Design](https://ieeexplore.ieee.org/abstract/document/10005396)
 
 --------------------------------------------------------------------------------------------------
 
