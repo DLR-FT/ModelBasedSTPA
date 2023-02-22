@@ -7,23 +7,19 @@ All important resources will be linked here.
 
 **Intro:**
 
-The intro video serves as an initial statement of the idea of the profile and introduces the tutorial contents.
-
-[Link to Intro-Video](https://www.youtube.com/watch?v=jCtOcbAkEVI)
+The [intro video](https://youtu.be/jCtOcbAkEVI) serves as an initial statement of the idea of the profile and introduces the tutorial contents.
 
 --------------------------------------------------------------------------------------------------
 
 **Tutorial:**
 
-For the usage of the STPA profile, a tutorial video was created that explains:
+For the usage of the STPA profile, a [tutorial video](https://youtu.be/hQOw4MYubq0) was created that explains:
  - Why it could be interesting
  - What is included in the profile
  - How a basic application would look like
  - How advanced concepts can be used
  - What the limitations are
  - What future work will target
- 
- [Link to Tutorial-Video](https://youtu.be/hQOw4MYubq0)
 
 --------------------------------------------------------------------------------------------------
 
@@ -62,8 +58,8 @@ The STPAStandaloneProfile.mdzip and STPAStandaloneProfileWithExample.mdzip are l
 
 The corresponding introductory resources are licensed under the [CC By-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license. 
 The introductory resources inlcude:
-- Introduction-Video:   IntroductionSTPA.mp4
-- Tutorial-Video:       TutorialSTPA.mp4
+- Introduction-Video:   [IntroductionSTPA.mp4](https://youtu.be/jCtOcbAkEVI)
+- Tutorial-Video:       [TutorialSTPA.mp4](https://youtu.be/hQOw4MYubq0)
 - Tutorial-Slides:      STPA_Tutorial_Slides.mp4
 
 For both, the profile and the introductory resources, the copyright belongs to the German Aerospace Center (DLR) / Deutsches Zentrum für Luft- und Raumfahrt (DLR) e.V.: 
