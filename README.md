@@ -37,11 +37,11 @@ Since automated functions are an important parts of the profile, a summary of th
 
 **Further Material**
 
-STPA Literature:
+Recommended STPA Literature:
 - [MIT Partnership for Systems Approaches to Safety and Security (PSASS)](http://psas.scripts.mit.edu/home/materials/)
 - [STPA Handbook 2018](http://psas.scripts.mit.edu/home/get_file.php?name=STPA_handbook.pdf)
 - [Engineering A Safer World](https://direct.mit.edu/books/book/2908/Engineering-a-Safer-WorldSystems-Thinking-Applied)
-- [SAE STPA Guidance](https://www.sae.org/standards/content/j3187_202202/)
+- [SAE J3187 STPA Guidance](https://www.sae.org/standards/content/j3187_202202/)
 
 Related References from Alexander Ahlbrecht:
 - [Master's Thesis - German](https://www.researchgate.net/publication/354599682_Erweiterung_von_MBSE_Prozessen_bei_der_Entwicklung_sicherheitskritischer_Systemarchitekturen_durch_die_Nutzung_Formaler_Methoden)
