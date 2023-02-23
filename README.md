@@ -64,9 +64,9 @@ The introductory resources inlcude:
 - Tutorial-Video:       [TutorialSTPA.mp4](https://youtu.be/hQOw4MYubq0)
 - Tutorial-Slides:      Tutorial/STPA_Tutorial_Slides.pdf
 
-For both, the profile and the introductory resources, the copyright belongs to the German Aerospace Center (DLR) / Deutsches Zentrum für Luft- und Raumfahrt (DLR) e.V.: 
+For both, the profile and the introductory resources, the copyright belongs to the German Aerospace Center / Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR): 
 
-Copyright (c) 2023 Deutsches Zentrum für Luft- und Raumfahrt (DLR) e.V.
+Copyright (c) 2023 Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR)
 
 --------------------------------------------------------------------------------------------------
 
