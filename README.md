@@ -22,6 +22,8 @@ For the usage of the STPA profile, a [tutorial video](https://youtu.be/hQOw4MYub
  - How advanced concepts can be used
  - What the limitations are
  - What future work will target
+ 
+ In addition, the tutorial slides are placed for download in the Tutorial folder.
 
 --------------------------------------------------------------------------------------------------
 
