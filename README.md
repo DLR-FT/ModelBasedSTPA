@@ -13,13 +13,13 @@ It is recommended to take a look at the [**intro**](https://youtu.be/jCtOcbAkEVI
 
 --------------------------------------------------------------------------------------------------
 
-**Intro:**
+**Intro**
 
 The [**intro video**](https://youtu.be/jCtOcbAkEVI) serves as an initial statement of the idea of the profile and introduces the tutorial contents.
 
 --------------------------------------------------------------------------------------------------
 
-**Tutorial:**
+**Tutorial**
 
 For the usage of the STPA profile, a [**tutorial video**](https://youtu.be/hQOw4MYubq0) was created that explains:
  - Why it could be interesting
