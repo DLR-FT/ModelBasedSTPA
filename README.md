@@ -52,6 +52,7 @@ Recommended STPA Literature:
 - [STPA Handbook 2018](http://psas.scripts.mit.edu/home/get_file.php?name=STPA_handbook.pdf)
 - [Engineering A Safer World](https://direct.mit.edu/books/book/2908/Engineering-a-Safer-WorldSystems-Thinking-Applied)
 - [SAE J3187 STPA Guidance](https://www.sae.org/standards/content/j3187_202202/)
+- [Podcasts about STPA](https://safetycorner.wagnerflorian.eu/index.php/en/)
 
 Related References from Alexander Ahlbrecht:
 - [Master's Thesis - German](https://www.researchgate.net/publication/354599682_Erweiterung_von_MBSE_Prozessen_bei_der_Entwicklung_sicherheitskritischer_Systemarchitekturen_durch_die_Nutzung_Formaler_Methoden)
