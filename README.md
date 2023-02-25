@@ -35,7 +35,7 @@ For the usage of the STPA profile, a [**tutorial video**](https://youtu.be/hQOw4
 
 **Further Information**
 
-The profile was created with the Cameo Systems Modeler version 19.3.
+The profile was created with the Cameo Systems Modeler version 19.0 SP3
 
 This means that no guarantee is provided that the profile works with other versions.
 
