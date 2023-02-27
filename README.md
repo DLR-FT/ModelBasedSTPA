@@ -2,7 +2,7 @@
 
 The **System-Theoretic Profile Analysis (STPA)** is a safety analysis approach that targets to identify 
 not only component failures but also issues related to inadequate specifications and interactions. 
-To be able to use the STPA in combination with SysML, a profile was created (Cameo Systems Modeler version 19.3).
+To be able to use the STPA in combination with SysML, a profile was created (Cameo Systems Modeler version 19 SP3).
 
 The profile itself can be accessed in the Profile folder.
 In the folder, one version with and one version without a corresponding example is included.
