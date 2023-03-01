@@ -39,7 +39,7 @@ The profile was created with the Cameo Systems Modeler version 19.0 SP3
 
 This means that no guarantee is provided that the profile works with other versions.
 
-Howerver, a quick check for Cameo Systems Modeler version 2022 was executed and the updated profile uploaded in the Profile/2022x folder.
+However, a quick check for Cameo Systems Modeler version 2022 was executed and the updated profile uploaded in the Profile/2022x folder. This 2022x version has to be viewed with caution, since it was only tested very briefly.
 
 Moreover, the profile is a proof-of-concept implementation and not a qualified product!
 
@@ -67,7 +67,7 @@ Related References from Alexander Ahlbrecht:
 
 **Licensing Information**
 
-The STPAStandaloneProfile.mdzip and STPAStandaloneProfileWithExample.mdzip are licensed under the MIT license.
+The STPAStandaloneProfile*.mdzip and STPAStandaloneProfileWithExample*.mdzip (*version) are licensed under the MIT license.
 
 The corresponding introductory resources are licensed under the [CC By-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license. 
 The introductory resources inlcude:
