@@ -7,9 +7,14 @@ To be able to use the STPA in combination with SysML, a profile was created (Cam
 The profile itself can be accessed in the Profile/19SP3 folder.
 In the folder, one version with and one version without a corresponding example is included.
 To use the profile for own projects, it is recommended to import the version without the example.
+The structure of the example is shown below.
+
+![ExampleStructure](./Tutorial/OverviewExample.png)
 
 All important resources for using the profile will be linked below.
 It is recommended to take a look at the [**intro**](https://youtu.be/jCtOcbAkEVI) and [**tutorial**](https://youtu.be/hQOw4MYubq0) video to get a better understanding of the background and application.
+
+![ExampleStructure](./Tutorial/Tutorial.PNG)
 
 --------------------------------------------------------------------------------------------------
 
@@ -43,7 +48,9 @@ However, a quick check for Cameo Systems Modeler version 2022 was executed and t
 
 Moreover, the profile is a proof-of-concept implementation and not a qualified product!
 
-Since automated functions are an important parts of the profile, a summary of the most important functions is provided in the Profile folder. (Important_Functions_STPA_Profile.png)
+Since automated functions are an important parts of the profile, a summary of the most important functions is provided in the Profile folder.
+
+![ExampleStructure](./Tutorial/Important_Functions_STPA_Profile.png)
 
 --------------------------------------------------------------------------------------------------
 
