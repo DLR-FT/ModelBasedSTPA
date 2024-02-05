@@ -14,7 +14,7 @@ The structure of the example is shown below.
 All important resources for using the profile will be linked below.
 It is recommended to take a look at the [**intro**](https://youtu.be/jCtOcbAkEVI) and [**tutorial**](https://youtu.be/hQOw4MYubq0) video to get a better understanding of the background and application.
 
-![ExampleStructure](./Tutorial/Tutorial.PNG)
+[![TutorialSlideImage](./Tutorial/Tutorial.PNG/)](https://youtu.be/hQOw4MYubq0)
 
 --------------------------------------------------------------------------------------------------
 
@@ -50,7 +50,7 @@ Moreover, the profile is a proof-of-concept implementation and not a qualified p
 
 Since automated functions are an important parts of the profile, a summary of the most important functions is provided in the Profile folder.
 
-![ExampleStructure](./Tutorial/Important_Functions_STPA_Profile.png)
+![TutorialFunctions](./Tutorial/Important_Functions_STPA_Profile.png)
 
 --------------------------------------------------------------------------------------------------
 
