@@ -16,8 +16,6 @@ It is recommended to take a look at the [**intro**](https://youtu.be/jCtOcbAkEVI
 
 ![ExampleStructure](./Tutorial/Tutorial.PNG)
 
-![ExampleStructure](./Tutorial/Tutorial.PNG)[(Youtube)](https://youtu.be/hQOw4MYubq0)
-
 --------------------------------------------------------------------------------------------------
 
 **Intro**
