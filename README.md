@@ -2,9 +2,9 @@
 
 The **System-Theoretic Profile Analysis (STPA)** is a safety analysis approach that targets to identify 
 not only component failures but also issues related to inadequate specifications and interactions. 
-To be able to use the STPA in combination with SysML, a profile was created (Cameo Systems Modeler version 19 SP3).
+To be able to use the STPA in combination with SysML, a profile was created.
 
-The profile itself can be accessed in the Profile/19SP3 folder.
+The profile itself can be accessed in the Profile folder.
 In the folder, one version with and one version without a corresponding example is included.
 To use the profile for own projects, it is recommended to import the version without the example.
 The structure of the example is shown below.
@@ -40,13 +40,15 @@ For the usage of the STPA profile, a [**tutorial video**](https://youtu.be/hQOw4
 
 **Further Information**
 
-The profile was created with the Cameo Systems Modeler version 19.0 SP3
+The profile was initially created with the Cameo Systems Modeler version 19.0 SP3
 
 This means that no guarantee is provided that the profile works with other versions.
 
-However, a quick check for Cameo Systems Modeler version 2022 was executed and the updated profile uploaded in the Profile/2022x folder. This 2022x version has to be viewed with caution, since it was only tested very briefly.
+However, a quick update for Cameo Systems Modeler version 2022 and 2024RF2 was executed and the updated profile uploaded in the corresponding Profile/ folders.
 
-Moreover, the profile is a proof-of-concept implementation and not a qualified product!
+Since these versions were only tested briefly, they have to be used with caution.
+
+Please remember that the profile is a proof-of-concept implementation and not a qualified product!
 
 Since automated functions are an important parts of the profile, a summary of the most important functions is provided in the Profile folder.
 
@@ -64,6 +66,7 @@ Recommended STPA Literature:
 - [Podcasts about STPA](https://safetycorner.wagnerflorian.eu/index.php/en/)
 
 Related References from Alexander Ahlbrecht:
+- [Latest Publication: A System-Theoretic Assurance Framework for Safety-Driven Systems Engineering](https://link.springer.com/article/10.1007/s10270-024-01209-6)
 - [Master's Thesis - German](https://www.researchgate.net/publication/354599682_Erweiterung_von_MBSE_Prozessen_bei_der_Entwicklung_sicherheitskritischer_Systemarchitekturen_durch_die_Nutzung_Formaler_Methoden)
 - [Integrating Safety into MBSE Processes with Formal Methods](https://ieeexplore.ieee.org/document/9594315)
 - [Evaluating System Architecture Safety in Early Phases of Development with MBSE and STPA](https://ieeexplore.ieee.org/document/9582542)
